@@ -2,8 +2,7 @@
 Git is a version control system.
 Git is free sodtware.
 
-test  
-
-
 this is a config test.
 this is second change.
+
+Creating a new branch is quick & simple.
